@@ -1,2 +1,2 @@
 # Unity-project
-practice for C#
+game's programing part
